@@ -22,7 +22,7 @@
 	],
 	"s4": [
 		["Matemáticas IV", "MAT-024", 4, "PC", ["MAT-023"]],
-		["Física General III", "FIS-130", 4, "PC", ["FIS-120", "FIS-110"]],
+		["Física General III", "FIS-130", 4, "PC", ["MAT-022", "FIS-110"]],
 		["Taller de Ingeniería Industrial II", "ILN-011", 4, "IND", ["ILN-010"]],
 		["Electrotecnia Básica", "ELI-271", 4, "ELEC", ["FIS-120"]],
 		["Humanístico II", "HXW-002", 2, "HUM", ["HXW-001"]],
@@ -31,7 +31,7 @@
 	"s5": [
 		["Administración de Empresas", "ICN-262", 3, "IND"],
 		["Taller de Ingeniería Industrial III", "ILN-012", 3, "IND", ["ILN-011"]],
-		["Laboratorio de Procesos Industriales", "ILN-255", 4, "IND", ["FIS-120"]],
+		["Laboratorio de Procesos Industriales", "ILN-255", 4, "IND", ["FIS-120,"FIS-130"]],
 		["Termodinámica", "IWM-210", 4, "MEC", ["FIS-130"]],
 		["Microeconomia", "ILN-210", 3, "IND", ["MAT-023"]],
 		["Deportes", "DEW-0", 1, "DEF", ["DEW-101"]]
